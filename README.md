@@ -4,7 +4,7 @@
 ### Desarrollador Java *en Pañales* 👶💻
 
 >*Un apasionado por la programación, buscando dedicar mi vida a este hermoso mundo*.
->A la fecha llevo más de 7 meses programando a diario en el lenguaje de programación Java. Recientemente titulado del Bootcamp de Desafío Latam, bajo beca Corfo. 
+>A la fecha llevo más de 8 meses programando a diario en el lenguaje de programación Java. Recientemente titulado del Bootcamp de Desafío Latam, bajo beca Corfo. 
 
 ![CatCoder](https://c.tenor.com/_UYphwC-hZ0AAAAM/cat-keyboard.gif)
 
