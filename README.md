@@ -10,7 +10,7 @@
 
 ### Con qué he trabajado? 🤔
 
--**Lenguajes de programación:** 
+-**Skills:** 
   - Java SE 7+ 
   - Java JEE 
   - Javascript 
