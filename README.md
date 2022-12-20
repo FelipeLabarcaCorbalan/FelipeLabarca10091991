@@ -1,10 +1,10 @@
 
 ## system.out.println("felipeLabarca.javaDeveloper");
 
-### Desarrollador Java *en Pañales* 👶💻
+### Backend Developer ☕Java
 
->*Un apasionado por la programación, buscando dedicar mi vida a este hermoso mundo*.
->A la fecha llevo más de 8 meses programando a diario en el lenguaje de programación Java. Recientemente titulado del Bootcamp de Desafío Latam, bajo beca Corfo. 
+>*Nerd de corazon. Admiro la tecnología de antaño y quienes la impulsaron. Amo y sigo la tecnología vanguardista*.
+> Sueño algún día trabajar aportando y manteniendo código abierto.
 
 ![CatCoder](https://c.tenor.com/_UYphwC-hZ0AAAAM/cat-keyboard.gif)
 
@@ -15,18 +15,22 @@
   - Java JEE 
   - Javascript 
   - Sql 
+    - Postgres
+    - Oracle
   - Html 
   - Css
   
 -**Frameworks y herramientas:** 
   - Spring 
   - Spring Boot 
-  - Hibernate 
-  - JPA / JSTL  
+  - Persistencia
+    - Jdbc
+    - JPA
+    - Hibernate 
   - Maven 
   - Junit 
   - Git 
   - Postman 
   
-~~And i think that i understand english, but i don't have practice. I feel that if i improve my english,  i will feel confidence to say "Yeah, my english is so well"~~
+
 
