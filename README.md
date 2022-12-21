@@ -23,10 +23,8 @@
 -**Frameworks y herramientas:** 
   - Spring 
   - Spring Boot 
-  - Persistencia
-    - Jdbc
-    - JPA
-    - Hibernate 
+  - JPA
+  - Hibernate 
   - Maven 
   - Junit 
   - Git 
