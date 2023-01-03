@@ -1,5 +1,5 @@
 
-## system.out.println("felipeLabarca.javaDeveloper");
+**Felipe Labarca**
 
 ### Backend Developer ☕Java
 
@@ -12,11 +12,9 @@
 
 -**Skills:** 
   - Java SE 7+ 
-  - Java JEE 
+  - Java EE 
   - Javascript 
   - Sql 
-    - Postgres
-    - Oracle
   - Html 
   - Css
   
@@ -25,10 +23,10 @@
   - Spring Boot 
   - JPA
   - Hibernate 
-  - Maven 
-  - Junit 
+  - Maven  
   - Git 
-  - Postman 
+  - Postman
+  - Xampp 
   
 
 
