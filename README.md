@@ -3,8 +3,8 @@
 
 ### Backend Developer ☕Java
 
->*Nerd de corazon. Admiro la tecnología de antaño y quienes la impulsaron. Amo y sigo la tecnología vanguardista*.
-> Sueño algún día trabajar aportando y manteniendo código abierto.
+>*Admiro la tecnología de antaño y quienes la impulsaron.*.
+
 
 ![CatCoder](https://c.tenor.com/_UYphwC-hZ0AAAAM/cat-keyboard.gif)
 
