@@ -1,10 +1,12 @@
 
 **Felipe Labarca**
 
-### Junior Backend Developer ☕ Java
+### Junior FullStack Developer ☕ 
+#### - Java 
+#### - Javascript
 
 
 Improving mi skills since 2 years ago. 
 
-I feel confident with Java and Javascript like main language.
+
 
