@@ -8,9 +8,9 @@ _Java && Javascript_
 
 
 ### Challenges completed:
-#### Java SE/EE 8+
-#### Persistencia: JPA && JDBC
-#### RDBMS: SQL Developer, PostgreSQL, Workbench.
+- Java SE/EE 8+
+- Persistencia: JPA && JDBC
+- RDBMS: SQL Developer, PostgreSQL, Workbench.
 
 
 
