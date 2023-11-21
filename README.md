@@ -1,14 +1,10 @@
 ## **Felipe Labarca**  
-_Java && Javascript_
-
-### Junior FullStack Developer ☕ 
-***Improving mi skills since 2 years ago.***
 
 
+### Junior Java Developer ☕ 
 
-
-### Challenges completed:
-- Java SE/EE 8+
+### Skills:
+- Back: Java SE/EE 8+. Front: HTML, CSS, JavaScript.
 - Persistencia: JPA && JDBC
 - RDBMS: SQL Developer, PostgreSQL, Workbench.
 
