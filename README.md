@@ -1,7 +1,7 @@
 ## **Felipe Labarca**  
 
 
-### Junior Java Developer ☕ 
+### Junior Developer ☕ 
 
 ### Basic → Mid Skills:
 - Back: Java SE/EE 8+. Front: HTML, CSS, JavaScript, Thymeleaf, JSP.
